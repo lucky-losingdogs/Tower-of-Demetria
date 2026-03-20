@@ -1,4 +1,6 @@
-## Credits
+# Credits
+
+## Code
 
 - The 2D enemy navigation uses [h8man's NavMeshPlus](https://github.com/h8man/NavMeshPlus).
 
@@ -7,6 +9,7 @@
 - The inventory system was made with the help of [Sunny Valley Studio's tutorial](https://youtube.com/playlist?list=PLcRSafycjWFegXSGBBf4fqIKWkHDw\_G8D\&si=Y0WdhqHx-Tl77trk), which I improved upon with the shop system and different weapon types.
 
 
+## Art & Sound
 
 - [UI Pack - Pixel Adventure](https://www.kenney.nl/assets/ui-pack-pixel-adventure).
 
@@ -36,5 +39,4 @@
 
 - [7 Eating Crunches](https://opengameart.org/content/7-eating-crunches).
 
-\- \[RPG Title Screen(Demo version)](https://opengameart.org/content/rpg-title-screendemo-version)
-
+- [RPG Title Screen(Demo version)](https://opengameart.org/content/rpg-title-screendemo-version)
