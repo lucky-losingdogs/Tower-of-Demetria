@@ -40,4 +40,4 @@ At the moment the project isn't finished, so I have yet to upload a build of the
 ---
 
 ## Credits
-There are a lot of credits for artwork and sound so I have put it in a separate file named CREDITS.md. Please take a look at it!
+There are a lot of credits for artwork and sound so I have put it in a separate file named [CREDITS.md](https://github.com/lucky-losingdogs/Tower-of-Demetria/blob/main/docs/CREDITS.md). Please take a look at it!
