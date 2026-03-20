@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62fbb95b0f52d2944b3d189918cb76c2, type: 3}
+  m_Name: StrawberrySeeds
+  m_EditorClassIdentifier: 
+  <m_isStackable>k__BackingField: 1
+  <m_maxStackSize>k__BackingField: 99
+  <m_itemName>k__BackingField: Strawberry Seeds
+  <m_itemDescription>k__BackingField: Seeds to grow strawberries with razer leaves.
+  <m_itemImage>k__BackingField: {fileID: 380080668, guid: 5f2df78d92c5321469dd838bacaaf522, type: 3}
+  <m_itemID>k__BackingField: 12
+  <m_actionSFX>k__BackingField: {fileID: 8300000, guid: 250f744867cfd014db70e57273f8acc9, type: 3}
+  m_attackRate: 1
+  m_weaponType: 3
+  m_cropID: 4

@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5738457000433446769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7905528620543706172}
+  - component: {fileID: 8251890148119259288}
+  m_Layer: 0
+  m_Name: CropLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7905528620543706172
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5738457000433446769}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.2678, y: -2.22813, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8251890148119259288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5738457000433446769}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfe0ecda4d2273f4688a2bb60c376370, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_spawnCropPrefab: {fileID: 4466600928020849963, guid: 478f8bfb5fef40045a52887135147358, type: 3}
+  m_turnipSprites:
+  - {fileID: 11400000, guid: 50e1d110eb686334cb5520d2c9cef358, type: 2}
+  - {fileID: 11400000, guid: cb59dfdd33d28c447a067922cd60c687, type: 2}
+  - {fileID: 11400000, guid: e6fdb87338ade5a42a56792b6482bc5c, type: 2}
+  - {fileID: 11400000, guid: 84ab635c260a5af4e92eeb18140a7597, type: 2}
+  - {fileID: 11400000, guid: fa23b6ffd01427c47ad20858f9f02f11, type: 2}
+  - {fileID: 11400000, guid: 59ba5091426a65541b3ea88ae2ca4e23, type: 2}
+  m_tomatoSprites:
+  - {fileID: 11400000, guid: 0202e123ee91fb248b0bbf17af8db2cc, type: 2}
+  - {fileID: 11400000, guid: a3016ddc1eca51d488d8a99da689b618, type: 2}
+  - {fileID: 11400000, guid: 6c0577b51846504419bc1baedfa46517, type: 2}
+  - {fileID: 11400000, guid: 3d7af4f743206aa4eb9d491a6667e2bc, type: 2}
+  - {fileID: 11400000, guid: c9af29e10b7d41742bcc437a8dc1fde7, type: 2}
+  - {fileID: 11400000, guid: 870ad1ba29f881247bca41c8aa201fe4, type: 2}
+  m_melonSprites:
+  - {fileID: 11400000, guid: b3055a69d3152e14087245334bf864e7, type: 2}
+  - {fileID: 11400000, guid: 9093273d4e1b84347998f17b92cef220, type: 2}
+  - {fileID: 11400000, guid: 5de8407d643e2ca419f506a60c68eb73, type: 2}
+  - {fileID: 11400000, guid: 689b102e71a48674ba170295e48b29a4, type: 2}
+  - {fileID: 11400000, guid: 954479c5044280448a8f823f9bca47bc, type: 2}
+  - {fileID: 11400000, guid: 65c1df0b3031efb46b58a67544f3123d, type: 2}
+  m_grapeSprites:
+  - {fileID: 11400000, guid: d86c5b3407cee484ea9ec3fa423346cf, type: 2}
+  - {fileID: 11400000, guid: 8065394896f007e4aa59d0089a83acec, type: 2}
+  - {fileID: 11400000, guid: eecf471592878ac47abd1e7b1b397107, type: 2}
+  - {fileID: 11400000, guid: e61d3fe5f45e79843ac19f876a389f40, type: 2}
+  - {fileID: 11400000, guid: 35126e833920b444ebe4209e2c676181, type: 2}
+  - {fileID: 11400000, guid: 3957a23ffd33b0849acd9a3fe2597374, type: 2}
+  m_strawberrySprites:
+  - {fileID: 11400000, guid: 22c28e11bdf52404e9c8491cdcc9140d, type: 2}
+  - {fileID: 11400000, guid: ca5768b59519b594285c447fd9eed575, type: 2}
+  - {fileID: 11400000, guid: 5b4b32f47079d904a91c4215630d2952, type: 2}
+  - {fileID: 11400000, guid: e6f5cb9ccdb7de0438cbd76f3747522a, type: 2}
+  - {fileID: 11400000, guid: 5aacdbbe65cc59b4cbd72e48bbaa7288, type: 2}
+  - {fileID: 11400000, guid: 5b3915f3611fe0c4b8ba9ac42641867c, type: 2}
+  m_potatoSprites: []
+  m_pumpkinSprites: []
+  m_cornSprites: []

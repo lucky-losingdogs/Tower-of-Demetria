@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3742928033901435917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2909138674927859301}
+  - component: {fileID: 1642510161039229738}
+  m_Layer: 0
+  m_Name: EnemyWaves
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2909138674927859301
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3742928033901435917}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.04703, y: 11.12525, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1642510161039229738
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3742928033901435917}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3903cef0b4ff7d41b3b75ad41beae89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_enemyStartPoint:
+  - {fileID: 1242041351578965634, guid: 74eca7f236bc00c4dafe6a6bc9ee038a, type: 3}
+  - {fileID: 1242041351578965634, guid: be976bbc843fd3b4a80a783483f50104, type: 3}
+  - {fileID: 1242041351578965634, guid: b1f580626b33544448f69ab7d069d369, type: 3}
+  m_enemyArray:
+  - {fileID: 6227863249684758220, guid: d1166857a2a45cb4e94c4a58fbc59bf3, type: 3}
+  - {fileID: 6227863249684758220, guid: 97387513f1721224f8eebce5c7d2da09, type: 3}
+  - {fileID: 6227863249684758220, guid: c1da870430a04f3448a454d60ea95152, type: 3}
+  - {fileID: 6227863249684758220, guid: 1da54ade6fc16304abdd358def3464b5, type: 3}
+  - {fileID: 6227863249684758220, guid: ff3847a7fbd60d749953e5b58cee1df0, type: 3}
+  m_currentWaveNum: 1
+  m_waveIntermission: 0
+  m_waveActive: 0

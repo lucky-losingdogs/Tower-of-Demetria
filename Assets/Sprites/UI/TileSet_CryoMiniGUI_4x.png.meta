@@ -1,0 +1,2099 @@
+fileFormatVersion: 2
+guid: fcb8c1b0c48f88c40b78d7156e34e9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4824743347762680713
+    second: GUI_4x_0
+  - first:
+      213: 2506628082882951015
+    second: GUI_4x_1
+  - first:
+      213: 7028679605176687326
+    second: GUI_4x_2
+  - first:
+      213: -1921784270764113711
+    second: GUI_4x_3
+  - first:
+      213: -1758955909263869950
+    second: GUI_4x_4
+  - first:
+      213: 4651075968567485063
+    second: GUI_4x_5
+  - first:
+      213: 8536512838987739731
+    second: GUI_4x_6
+  - first:
+      213: -8197995511371906058
+    second: GUI_4x_7
+  - first:
+      213: 5182724834878707414
+    second: GUI_4x_8
+  - first:
+      213: -3283003759167633688
+    second: GUI_4x_9
+  - first:
+      213: -3274797533910617290
+    second: GUI_4x_10
+  - first:
+      213: 2493762229710403119
+    second: GUI_4x_11
+  - first:
+      213: -7379964143135913791
+    second: GUI_4x_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7675789e1ffb1ab4fa34949fad2b3303
+      internalID: -1488995373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f05498d16f9f14995329949f2f8728
+      internalID: -1389276868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08dd682af4ae4848b15ecf276081562
+      internalID: 946322035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bca5e18bcb97524e8681786eae0ae8e
+      internalID: -94178103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1d26d6ab2c5d04a98ad174ff9a2405
+      internalID: -1949057697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a2c99d4870874db69fd363435f4f3
+      internalID: 1307316470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fc62c606c7b546af1c0df4018b00b
+      internalID: 136116821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d49c10dfd27047bc41f7d8c587824
+      internalID: -260200124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f87c19fd6ea8d4498bcbec1af0553c
+      internalID: 1100663371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9caf82960023ba43a0f0eca8b7b0c34
+      internalID: 2039181951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f158fcb1f95f49892beb519418f8c
+      internalID: 344859999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7857986e05768649969d4501475df22
+      internalID: -476421082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a15545e670a148901607b1777b29f
+      internalID: 956366068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_50
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d477393700facea438ec31150b2655b9
+      internalID: 423462126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc9b027561d2624e856ad9004b7dfa6
+      internalID: 411190101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f3b06454d3bd4c87a66c77fb9f054
+      internalID: 853262890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6913c4562f100f4f9a77594179e2ff1
+      internalID: 720119128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da22ff32b6741c48a2a2448e5f026b1
+      internalID: -1704370421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbdb06190adf054d9219909a67cf44e
+      internalID: -411404657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60ce38efd7419a49912055fe81b75d4
+      internalID: 188429919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e54ced571463f046a2cac7ada964adc
+      internalID: -394898102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65213101f019d479ae5f304be9450f
+      internalID: 1396168711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0f0f4abc20f54b9d8525c4011b599
+      internalID: 1476561658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e258617c4fad034429c6d2cd6c87007e
+      internalID: -780189362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669a9b69456c6214e93f82ecd7dd0301
+      internalID: 17964737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc69d4c90d74b941b1f6d99f347d141
+      internalID: -504492805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b2a18430df48f46942697f04559be3
+      internalID: 1582525690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3083f873d45eeb4fa883998e97fc3fb
+      internalID: 1753348612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_65
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0813aa63e2c5640ad1e2daf963dc5b
+      internalID: 514735925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444c346cbf8b184082688493d4a2f73
+      internalID: -2145820279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_67
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e234f519fa2e2c84191caeb93728ecc1
+      internalID: 1398253655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_68
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8134c56cf0db5c94b92b101fed3f5e81
+      internalID: -955657906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e967ff54b4a9a9049919ecb2d8bc44aa
+      internalID: 81127101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_70
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99da337564bde0e40b402dd3261c9352
+      internalID: -1149085239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_71
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53325dc54f45de4f8c76b067396169b
+      internalID: 2117989413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_72
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae937fa9003ec14459ec80492b392900
+      internalID: 1472603409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1331fc0155b454a934a7ba091e0789
+      internalID: 1586604723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c5d83aa0619445929c373c9bc04a9
+      internalID: 1100235287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36e2a7694a81e4695c5d33df229ac7
+      internalID: 130521341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_82
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13edb0a66fb71143b0ea0913a3b7c94
+      internalID: 531603965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_85
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b3c2f0701f70e498582b11afb11a9b
+      internalID: 549759405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f147615f37195459bde8bcc63401c5
+      internalID: -494005576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_89
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6504c943cc43f47881c3de067635cd
+      internalID: -242510351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_119
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb48e18237014594aae2966cfab94d86
+      internalID: -1919146864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_121
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888b403a8c18e2645baa398495742e9e
+      internalID: -928700984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 32, y: 32, z: 32, w: 32}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e84fc883fd52042bf4d3b2a301b027
+      internalID: -72279255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a14f9ea23ab45e4aa1b0b15aa1b1ef0
+      internalID: -662841929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3a065c46b2aa740bd42138d95c286b
+      internalID: 606344702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8e1cafb625be04f9f5824e07818f46
+      internalID: 1236101850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42b9b59866e3314dae92de42b6a2143
+      internalID: -543845731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afbc20345bbfc4ab3377055870cca2
+      internalID: -1218285272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e94a0fd2ef33043b727cad91889148
+      internalID: 1394129809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea5821642fca3b428ce315f0ecdf6f8
+      internalID: 614361609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b029d926adfe49bf0229a95c8dedb
+      internalID: -1614911505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dd57683c4ff3046a8d75501f61aec6
+      internalID: -21794620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ab067061b38134193ab804dcc977dd
+      internalID: -502275554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_157
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169a3c4ac1af3548ba7e5fabc1a2e5a
+      internalID: -748130593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_158
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa624601eaad6847826fcbf6891c42d
+      internalID: 1684607112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_159
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844a0af3a12b974e8d89c6d8d1b9bc6
+      internalID: -1865427819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_160
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18917922d75a7648b55c6eaa89e7be3
+      internalID: -1918610857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_161
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127befd9ac9614847b30b64828cc5028
+      internalID: -635007074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_162
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8dd3e68550af7418f2db49f6ac208d
+      internalID: 1041559906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_163
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a9469b1cf0ae4fb1f1672a6f8158f
+      internalID: -2099837216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_164
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f2c49c8e71f1049a87237db28837e7
+      internalID: 1096242905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da78cd83453b24ab3a0a91be6e618c
+      internalID: -1338914527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 12, z: 12, w: 12}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3de40360a983ee45a928cf83db2797a
+      internalID: -1538010352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_181
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4e1a14c26679d4ba2733ba71dea7fd
+      internalID: -426695280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_184
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1dbb3833f018478e80bd99dca3fd5
+      internalID: 1344294802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_192
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726cc75bee68e5745980871220d1a130
+      internalID: -1824192842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_193
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e4f0f825aaa240add464e1a9cd652
+      internalID: 1769386562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_194
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9f0e6ce3e686443becbb72fd6d0358
+      internalID: -1797461409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367714b420a450c4796214d90fa2d8f8
+      internalID: 1171492654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_196
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c346749e24692419f43414423c23c0
+      internalID: 2044589722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120d9d1457bb3c646906f88bcd46bda0
+      internalID: -1354541622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c278765add99e8c48aa16ab4aefa7e6b
+      internalID: 1934423275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_199
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74adc16b0656b674a8ffc9f228d6e98b
+      internalID: 94871475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_200
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbeaea10784b524a9652b671109a335
+      internalID: -1788408211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_201
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec0cbd82dfcdb14a85ca3e2df79dfb2
+      internalID: -1388141337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TileSet_CryoMiniGUI_4x_202
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658da6f32dd2ce44b9504a2ddfd23f52
+      internalID: 1413013670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2001cfb766a460943af47c972a70ab7d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      TileSet_CryoMiniGUI_4x_0: -1488995373
+      TileSet_CryoMiniGUI_4x_1: 1423999791
+      TileSet_CryoMiniGUI_4x_10: -1265434624
+      TileSet_CryoMiniGUI_4x_100: -1286518153
+      TileSet_CryoMiniGUI_4x_101: 1017181001
+      TileSet_CryoMiniGUI_4x_102: 676389931
+      TileSet_CryoMiniGUI_4x_103: 945033571
+      TileSet_CryoMiniGUI_4x_104: 1985766106
+      TileSet_CryoMiniGUI_4x_105: -963871421
+      TileSet_CryoMiniGUI_4x_106: 1018337143
+      TileSet_CryoMiniGUI_4x_107: 307740884
+      TileSet_CryoMiniGUI_4x_108: 1780786894
+      TileSet_CryoMiniGUI_4x_109: -118411153
+      TileSet_CryoMiniGUI_4x_11: 563264718
+      TileSet_CryoMiniGUI_4x_110: -347424261
+      TileSet_CryoMiniGUI_4x_111: -1527221237
+      TileSet_CryoMiniGUI_4x_112: -1069399826
+      TileSet_CryoMiniGUI_4x_113: 952388977
+      TileSet_CryoMiniGUI_4x_114: -423068845
+      TileSet_CryoMiniGUI_4x_115: -1207030619
+      TileSet_CryoMiniGUI_4x_116: -1206944245
+      TileSet_CryoMiniGUI_4x_117: 1889008305
+      TileSet_CryoMiniGUI_4x_118: -397530322
+      TileSet_CryoMiniGUI_4x_119: -1919146864
+      TileSet_CryoMiniGUI_4x_12: -1949057697
+      TileSet_CryoMiniGUI_4x_120: -1593249504
+      TileSet_CryoMiniGUI_4x_121: -928700984
+      TileSet_CryoMiniGUI_4x_122: -1681213447
+      TileSet_CryoMiniGUI_4x_123: -72279255
+      TileSet_CryoMiniGUI_4x_124: -23649764
+      TileSet_CryoMiniGUI_4x_125: -334939988
+      TileSet_CryoMiniGUI_4x_126: -567161735
+      TileSet_CryoMiniGUI_4x_127: -662841929
+      TileSet_CryoMiniGUI_4x_128: -1219212109
+      TileSet_CryoMiniGUI_4x_129: -1514298024
+      TileSet_CryoMiniGUI_4x_13: 2058058215
+      TileSet_CryoMiniGUI_4x_130: -939009053
+      TileSet_CryoMiniGUI_4x_131: -389670751
+      TileSet_CryoMiniGUI_4x_132: 606344702
+      TileSet_CryoMiniGUI_4x_133: 692306810
+      TileSet_CryoMiniGUI_4x_134: -1078477203
+      TileSet_CryoMiniGUI_4x_135: -1794148841
+      TileSet_CryoMiniGUI_4x_136: 1958088392
+      TileSet_CryoMiniGUI_4x_137: -192680743
+      TileSet_CryoMiniGUI_4x_138: 230227569
+      TileSet_CryoMiniGUI_4x_139: 1520246370
+      TileSet_CryoMiniGUI_4x_14: -828441661
+      TileSet_CryoMiniGUI_4x_140: 1566204997
+      TileSet_CryoMiniGUI_4x_141: -1721101930
+      TileSet_CryoMiniGUI_4x_142: 2026092563
+      TileSet_CryoMiniGUI_4x_143: 1236101850
+      TileSet_CryoMiniGUI_4x_144: -543845731
+      TileSet_CryoMiniGUI_4x_145: -1218285272
+      TileSet_CryoMiniGUI_4x_146: 1394129809
+      TileSet_CryoMiniGUI_4x_147: 614361609
+      TileSet_CryoMiniGUI_4x_148: -1614911505
+      TileSet_CryoMiniGUI_4x_149: -21794620
+      TileSet_CryoMiniGUI_4x_15: 1307316470
+      TileSet_CryoMiniGUI_4x_150: -502275554
+      TileSet_CryoMiniGUI_4x_151: -1183823760
+      TileSet_CryoMiniGUI_4x_152: -1049846178
+      TileSet_CryoMiniGUI_4x_153: 1657950063
+      TileSet_CryoMiniGUI_4x_154: -1367522249
+      TileSet_CryoMiniGUI_4x_155: 1836022720
+      TileSet_CryoMiniGUI_4x_156: -166026105
+      TileSet_CryoMiniGUI_4x_157: -748130593
+      TileSet_CryoMiniGUI_4x_158: 1684607112
+      TileSet_CryoMiniGUI_4x_159: -1865427819
+      TileSet_CryoMiniGUI_4x_16: 136116821
+      TileSet_CryoMiniGUI_4x_160: -1918610857
+      TileSet_CryoMiniGUI_4x_161: -635007074
+      TileSet_CryoMiniGUI_4x_162: 1041559906
+      TileSet_CryoMiniGUI_4x_163: -2099837216
+      TileSet_CryoMiniGUI_4x_164: 1096242905
+      TileSet_CryoMiniGUI_4x_165: 66150925
+      TileSet_CryoMiniGUI_4x_166: 335165736
+      TileSet_CryoMiniGUI_4x_167: 2115895913
+      TileSet_CryoMiniGUI_4x_168: 129862561
+      TileSet_CryoMiniGUI_4x_169: -1768953270
+      TileSet_CryoMiniGUI_4x_17: -260200124
+      TileSet_CryoMiniGUI_4x_170: -1791329941
+      TileSet_CryoMiniGUI_4x_171: 1044280216
+      TileSet_CryoMiniGUI_4x_172: 231681903
+      TileSet_CryoMiniGUI_4x_173: -1338914527
+      TileSet_CryoMiniGUI_4x_174: 137136820
+      TileSet_CryoMiniGUI_4x_175: 1071533458
+      TileSet_CryoMiniGUI_4x_176: 870035326
+      TileSet_CryoMiniGUI_4x_177: -1154788954
+      TileSet_CryoMiniGUI_4x_178: -1538010352
+      TileSet_CryoMiniGUI_4x_179: 1666147715
+      TileSet_CryoMiniGUI_4x_18: 1100663371
+      TileSet_CryoMiniGUI_4x_180: -730485599
+      TileSet_CryoMiniGUI_4x_181: -426695280
+      TileSet_CryoMiniGUI_4x_182: 487479714
+      TileSet_CryoMiniGUI_4x_183: 746687363
+      TileSet_CryoMiniGUI_4x_184: 1344294802
+      TileSet_CryoMiniGUI_4x_185: -1712226551
+      TileSet_CryoMiniGUI_4x_186: 1354416178
+      TileSet_CryoMiniGUI_4x_187: -957986131
+      TileSet_CryoMiniGUI_4x_188: -1620327577
+      TileSet_CryoMiniGUI_4x_189: 1053401134
+      TileSet_CryoMiniGUI_4x_19: 1270394819
+      TileSet_CryoMiniGUI_4x_190: 43806884
+      TileSet_CryoMiniGUI_4x_191: -2137167401
+      TileSet_CryoMiniGUI_4x_192: -1824192842
+      TileSet_CryoMiniGUI_4x_193: 1769386562
+      TileSet_CryoMiniGUI_4x_194: -1797461409
+      TileSet_CryoMiniGUI_4x_195: 1171492654
+      TileSet_CryoMiniGUI_4x_196: 2044589722
+      TileSet_CryoMiniGUI_4x_197: -1354541622
+      TileSet_CryoMiniGUI_4x_198: 1934423275
+      TileSet_CryoMiniGUI_4x_199: 94871475
+      TileSet_CryoMiniGUI_4x_2: -968679773
+      TileSet_CryoMiniGUI_4x_20: 1250318990
+      TileSet_CryoMiniGUI_4x_200: -1788408211
+      TileSet_CryoMiniGUI_4x_201: -1388141337
+      TileSet_CryoMiniGUI_4x_202: 1413013670
+      TileSet_CryoMiniGUI_4x_21: -1412163385
+      TileSet_CryoMiniGUI_4x_22: -1987939009
+      TileSet_CryoMiniGUI_4x_23: -1573740284
+      TileSet_CryoMiniGUI_4x_24: 990679723
+      TileSet_CryoMiniGUI_4x_25: -609458472
+      TileSet_CryoMiniGUI_4x_26: 410059389
+      TileSet_CryoMiniGUI_4x_27: -1000675156
+      TileSet_CryoMiniGUI_4x_28: 1749186422
+      TileSet_CryoMiniGUI_4x_29: 679409086
+      TileSet_CryoMiniGUI_4x_3: -1389276868
+      TileSet_CryoMiniGUI_4x_30: 1475260893
+      TileSet_CryoMiniGUI_4x_31: 2039181951
+      TileSet_CryoMiniGUI_4x_32: 344859999
+      TileSet_CryoMiniGUI_4x_33: -476421082
+      TileSet_CryoMiniGUI_4x_34: 956366068
+      TileSet_CryoMiniGUI_4x_35: -543362457
+      TileSet_CryoMiniGUI_4x_36: -667326241
+      TileSet_CryoMiniGUI_4x_37: -1489074240
+      TileSet_CryoMiniGUI_4x_38: -1276002380
+      TileSet_CryoMiniGUI_4x_39: -156853055
+      TileSet_CryoMiniGUI_4x_4: -1728878327
+      TileSet_CryoMiniGUI_4x_40: -176953805
+      TileSet_CryoMiniGUI_4x_41: 1691439208
+      TileSet_CryoMiniGUI_4x_42: 531382564
+      TileSet_CryoMiniGUI_4x_43: 1661567381
+      TileSet_CryoMiniGUI_4x_44: 1244644193
+      TileSet_CryoMiniGUI_4x_45: 890169001
+      TileSet_CryoMiniGUI_4x_46: -1960148763
+      TileSet_CryoMiniGUI_4x_47: -1569930010
+      TileSet_CryoMiniGUI_4x_48: -1559256822
+      TileSet_CryoMiniGUI_4x_49: 30330443
+      TileSet_CryoMiniGUI_4x_5: -1660939467
+      TileSet_CryoMiniGUI_4x_50: 423462126
+      TileSet_CryoMiniGUI_4x_51: 411190101
+      TileSet_CryoMiniGUI_4x_52: 853262890
+      TileSet_CryoMiniGUI_4x_53: 720119128
+      TileSet_CryoMiniGUI_4x_54: -1704370421
+      TileSet_CryoMiniGUI_4x_55: -411404657
+      TileSet_CryoMiniGUI_4x_56: 188429919
+      TileSet_CryoMiniGUI_4x_57: -394898102
+      TileSet_CryoMiniGUI_4x_58: 1396168711
+      TileSet_CryoMiniGUI_4x_59: 1476561658
+      TileSet_CryoMiniGUI_4x_6: 946322035
+      TileSet_CryoMiniGUI_4x_60: -780189362
+      TileSet_CryoMiniGUI_4x_61: 17964737
+      TileSet_CryoMiniGUI_4x_62: -504492805
+      TileSet_CryoMiniGUI_4x_63: 1582525690
+      TileSet_CryoMiniGUI_4x_64: 1753348612
+      TileSet_CryoMiniGUI_4x_65: 514735925
+      TileSet_CryoMiniGUI_4x_66: -2145820279
+      TileSet_CryoMiniGUI_4x_67: 1398253655
+      TileSet_CryoMiniGUI_4x_68: -955657906
+      TileSet_CryoMiniGUI_4x_69: 81127101
+      TileSet_CryoMiniGUI_4x_7: -1858834239
+      TileSet_CryoMiniGUI_4x_70: -1149085239
+      TileSet_CryoMiniGUI_4x_71: 2117989413
+      TileSet_CryoMiniGUI_4x_72: 1472603409
+      TileSet_CryoMiniGUI_4x_73: 1586604723
+      TileSet_CryoMiniGUI_4x_74: 1552132065
+      TileSet_CryoMiniGUI_4x_75: -240235258
+      TileSet_CryoMiniGUI_4x_76: 1100235287
+      TileSet_CryoMiniGUI_4x_77: -1385646289
+      TileSet_CryoMiniGUI_4x_78: -1960116430
+      TileSet_CryoMiniGUI_4x_79: 130521341
+      TileSet_CryoMiniGUI_4x_8: 1321939521
+      TileSet_CryoMiniGUI_4x_80: -1854751383
+      TileSet_CryoMiniGUI_4x_81: -58258012
+      TileSet_CryoMiniGUI_4x_82: 531603965
+      TileSet_CryoMiniGUI_4x_83: 1654217737
+      TileSet_CryoMiniGUI_4x_84: -1715456753
+      TileSet_CryoMiniGUI_4x_85: 549759405
+      TileSet_CryoMiniGUI_4x_86: 1845822418
+      TileSet_CryoMiniGUI_4x_87: -494005576
+      TileSet_CryoMiniGUI_4x_88: -563523477
+      TileSet_CryoMiniGUI_4x_89: -242510351
+      TileSet_CryoMiniGUI_4x_9: -94178103
+      TileSet_CryoMiniGUI_4x_90: -1503275955
+      TileSet_CryoMiniGUI_4x_91: 283985933
+      TileSet_CryoMiniGUI_4x_92: 1257349416
+      TileSet_CryoMiniGUI_4x_93: 2137161939
+      TileSet_CryoMiniGUI_4x_94: -325509248
+      TileSet_CryoMiniGUI_4x_95: 1643955588
+      TileSet_CryoMiniGUI_4x_96: 1397829722
+      TileSet_CryoMiniGUI_4x_97: 928617483
+      TileSet_CryoMiniGUI_4x_98: -1734614940
+      TileSet_CryoMiniGUI_4x_99: 270315985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
