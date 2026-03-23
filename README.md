@@ -28,7 +28,7 @@ Generally, I need to go through the whole project to resolve bugs and add polish
 
 ## Running The Project
 At the moment the project isn't finished, so I have yet to upload a build of the game anywhere. Until then, please follow these steps to access the Unity project:
-1. Clone the repository and open it on the latest Unity version.
+1. Clone the repository and open it from Unity Hub with the latest Unity version.
 2. Open the Main Menu scene.
 3. Press play to run the project in the play view.
    
@@ -36,6 +36,7 @@ At the moment the project isn't finished, so I have yet to upload a build of the
 
 ## Video
 
+[![Preview of Tower of Demetria on YouTube](https://img.youtube.com/vi/W0TNY12vUtc/0.jpg)](https://www.youtube.com/watch?v=W0TNY12vUtc)
 
 ---
 
