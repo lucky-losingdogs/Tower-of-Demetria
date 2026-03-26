@@ -28,6 +28,8 @@
 - [Archer Towers Pixel Art](https://free-game-assets.itch.io/free-archer-towers-pixel-art-for-tower-defense).
 
 - [2D Tileset Pixel Art](https://free-game-assets.itch.io/free-fields-tileset-pixel-art-for-tower-defense).
+  
+- [Enemies Pixel Art for TD Free Pack](https://free-game-assets.itch.io/free-field-enemies-pixel-art-for-tower-defense)
 
 - [Crickets - General calm ambient music](https://opengameart.org/content/crickets-general-calm-ambient-music).
 
