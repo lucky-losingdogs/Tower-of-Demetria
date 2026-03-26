@@ -27,7 +27,9 @@ Generally, I need to go through the whole project to resolve bugs and add polish
 ---
 
 ## Running The Project
-At the moment the project isn't finished, so I have yet to upload a build of the game anywhere. Until then, please follow these steps to access the Unity project:
+I have a build of the project published on [itch.io](https://lucky-losingdogs.itch.io/tower-of-demetria), which you can download and run from the .exe file. I will be planning on getting a web build in the future.
+
+For downloading the Unity project from this repository please follow these instructions:
 1. Clone the repository and open it from Unity Hub with the latest Unity version.
 2. Open the Main Menu scene.
 3. Press play to run the project in the play view.
